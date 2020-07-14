@@ -4,6 +4,7 @@ Description:
 
 Needed:
 ```
+pip
 python 3.x
 pip install pygame
 ```
