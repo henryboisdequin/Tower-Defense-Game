@@ -8,7 +8,7 @@ python 3.x
 pip install pygame
 ```
 
-Run:
+To Run:
 ```
 main.py
 ```
