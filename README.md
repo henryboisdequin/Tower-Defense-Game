@@ -27,3 +27,5 @@ To-do:
 - [ ] Add levels/difficulties
 - [ ] Add more buildings
 
+
+© Henry Boisdequin 2020 ~ MIT License
