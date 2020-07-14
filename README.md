@@ -14,5 +14,5 @@ Images can be found here: https://craftpix.net/product/tower-defense-2d-game-kit
 
 To-do:
 
-- [] Add magic powerups
+- [x] Add magic powerups
 
