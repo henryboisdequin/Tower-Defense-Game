@@ -20,6 +20,7 @@ Music:
 
 Assets:
 
+The images are premium assests and can't be shared on this github repo.
 Images can be found here: https://craftpix.net/product/tower-defense-2d-game-kit/.
 
 To-do:
