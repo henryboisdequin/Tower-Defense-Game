@@ -1,9 +1,16 @@
 # Tower-Defense-Game
 
+Description:
+
 Needed:
 ```
 python 3.x
 pip install pygame
+```
+
+Run:
+```
+main.py
 ```
 
 Music:
