@@ -9,7 +9,7 @@ Created a tower defence game with python and pygame. This game has 34 levels, 4 
 Needed:
 ```
 pip
-python 3.7
+python 3.7+
 pip install pygame
 ```
 
