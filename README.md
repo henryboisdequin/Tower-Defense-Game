@@ -4,6 +4,8 @@ Description:
 
 Created a tower defense game with python and pygame. This game has 34 levels, 4 buildings, and 13 unique enemies. This game also has a nice user interface for the start screen, you lose screen, and you win screen. First real project (2 months into programming)!
 
+![alt text](https://user-images.githubusercontent.com/65845077/87537326-11045480-c6b8-11ea-93dd-f975895c7d88.png)
+
 Needed:
 ```
 pip
