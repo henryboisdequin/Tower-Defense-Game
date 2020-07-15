@@ -27,7 +27,7 @@ To-do:
 
 - [ ] Add magic powerups
 - [ ] Add levels/difficulties
-- [ ] Add more buildings
+- [x] Add more buildings
 
 
 © Henry Boisdequin 2020 ~ MIT License
