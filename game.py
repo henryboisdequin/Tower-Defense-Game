@@ -282,8 +282,8 @@ class MainLoop:
         win.blit(background, (10, 10))
         win.blit(txt, (16, 34))
 
-        for p in self.clicks:  # del later
-            pygame.draw.circle(win, (255, 0, 0), p, 5, 0)
+#         for click in self.clicks:
+#             pygame.draw.circle(win, (255, 0, 0), click, 5, 0)
 
         # draws enemies
         for en in self.enemies:
@@ -468,11 +468,11 @@ class MainLoop:
                 print("[END] You Win, congrats!")
                 self.win_screen()
 
-            keys = pygame.key.get_pressed()  # for finding path
+#             keys = pygame.key.get_pressed()  # for finding path
 
-            if keys[pygame.K_SPACE]:
-                self.clicks.append(pos)
-                print(self.clicks)
+#             if keys[pygame.K_SPACE]:
+#                 self.clicks.append(pos)
+#                 print(self.clicks)
 
             # Generate and handle enemies
             if not self.paused:
